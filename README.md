@@ -35,7 +35,7 @@ The simulation uses two main images for the environment:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/dbvb2k/DBVB-ERAV3-S21
+git clone <repo url>
 cd self-driving-car-td3
 ```
 
